@@ -5,7 +5,7 @@ body {
 body {
   font-family: Arial, sans-serif;
 }
-a {
+body {
   color: blue;
   
 }
@@ -13,4 +13,8 @@ p {
   background-color: white;
   padding: 15px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+p:hover{
+  color: red;
 }
